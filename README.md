@@ -1,4 +1,4 @@
-<img width="1895" height="850" alt="image" src="https://github.com/user-attachments/assets/ec10eef5-799f-40a2-8243-e9e016a8d5fb" /># TeachLift
+# TeachLift
 
 ### Mark less. Understand more.
 
