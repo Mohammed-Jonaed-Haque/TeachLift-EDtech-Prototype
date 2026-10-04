@@ -13,7 +13,7 @@ Instead of stopping at whether an answer is right or wrong, TeachLift is designe
 ## Live Prototype
 
 **Try the interactive prototype:**  
-[Open TeachLift Prototype](YOUR PROTOTYPE LINK HERE)
+[Open TeachLift Prototype](https://teach-lift.base44.app/)
 
 > TeachLift is currently a clickable prototype created for demonstration purposes. The application uses fictional student data and simulated AI functionality.
 
