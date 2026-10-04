@@ -1,4 +1,4 @@
-# TeachLift
+<img width="1895" height="850" alt="image" src="https://github.com/user-attachments/assets/ec10eef5-799f-40a2-8243-e9e016a8d5fb" /># TeachLift
 
 ### Mark less. Understand more.
 
@@ -380,3 +380,24 @@ The longer-term concept is to begin with education providers such as tutoring ce
 ### TeachLift
 
 **Mark less. Understand more.**
+
+
+
+
+<img width="1881" height="860" alt="image" src="https://github.com/user-attachments/assets/28e5002d-179e-460e-bdc6-0d34c100efbb" />
+
+<img width="1885" height="855" alt="image" src="https://github.com/user-attachments/assets/c7403757-a606-4074-a7a8-471c6e928910" />
+
+<img width="1882" height="837" alt="image" src="https://github.com/user-attachments/assets/68ad2fdf-8aec-4ee2-9b34-d8db50e303fa" />
+
+<img width="1917" height="835" alt="image" src="https://github.com/user-attachments/assets/5ab8bdb3-c8d7-4fb0-97f3-e72c053b02f1" />
+
+<img width="1895" height="850" alt="image" src="https://github.com/user-attachments/assets/55eb6ca7-dc48-46b3-a12f-0b1e1b5d889c" />
+
+<img width="1897" height="842" alt="image" src="https://github.com/user-attachments/assets/8364415d-bd71-42fa-a261-af8a57a31a39" />
+
+<img width="1887" height="847" alt="image" src="https://github.com/user-attachments/assets/d8b69a43-4c2e-4c4d-9320-eaf2e981fab9" />
+
+
+
+
